@@ -279,6 +279,7 @@ components:
             margin: ['0', null, null, '0']
             padding: ['0', '0', '0', '0']
           text: ''
+          tooltip: prev page
         type: Button
       - event_bindings: {click: next_page_click}
         layout_properties: {}
