@@ -52,8 +52,8 @@ dependencies:
 - dep_id: dep_u7h63wh2m50rm
   resolution_hints: {app_id: C6ZZPAPN4YYF5NVJ, name: Anvil Extras, package_name: anvil_extras}
   version: {version_tag: v3.6.1}
-metadata: {title: anii_r2}
-name: Clone of anii_r2
+metadata: {title: anii_r2_v032}
+name: anii_r2_v032
 native_deps:
   head_html: |-
     <script>
